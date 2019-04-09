@@ -3,5 +3,5 @@ Inspectro
 
 *Looks into spectra*
 
-.. automodule:: incubator.inspectro
+.. automodule:: musexpert.inspectro
    :members:

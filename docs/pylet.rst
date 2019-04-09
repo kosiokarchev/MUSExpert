@@ -3,7 +3,7 @@ PyLET
 
 The Pythonic Lime Emission Tracker
 
-.. automodule:: incubator.pylet
+.. automodule:: musexpert.pylet
 
-.. autoclass:: incubator.pylet.Pylet
+.. autoclass:: musexpert.pylet.Pylet
    :members:
